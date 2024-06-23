@@ -1,0 +1,80 @@
+.main {
+    margin-top: 100px;
+  }
+  
+  body {
+    background-color: #000;
+  }
+  
+  .title {
+    padding-bottom: 40px;
+    text-align: center;
+    color: #fff;
+  }
+  
+  #repos .repo {
+    padding: 2px 6px;
+    margin: 4px;
+  }
+  
+  #user-section .card-title {
+    font-size: 30px;
+  }
+  
+  #user-section img {
+    width: 300px;
+  }
+  
+  #user-section .card {
+    padding: 20px;
+  }
+  
+  input {
+    margin-right: 10px;
+  }
+  
+  .form-control:focus {
+    color: #212529;
+    background-color: #fff;
+    border-color: #86b7fe;
+    outline: 0;
+    box-shadow: none;
+  }
+  
+  .button:focus {
+    box-shadow: none;
+  }
+  
+  .btn-check:focus + .btn-primary,
+  .btn-primary:focus {
+    box-shadow: none;
+  }
+  
+  .repo:focus {
+    box-shadow: none;
+  }
+  
+  .user-center {
+    align-items: center;
+  }
+  
+  .border-gray-right {
+    border-right: 1px solid rgb(216, 214, 214);
+  }
+  
+  .stats-info {
+    margin-bottom: 20px;
+    padding-left: 0;
+  }
+  
+  .stats-info li {
+    list-style: none;
+    list-style: none;
+    display: inline;
+    padding-right: 20px;
+  }
+  
+  .view-profile-btn {
+    margin-top: 10px;
+  }
+  
